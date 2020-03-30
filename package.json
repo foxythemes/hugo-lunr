@@ -1,6 +1,6 @@
 {
   "name": "@foxythemes/hugo-lunr",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "create lunr index file for hugo static site search",
   "repository": {
     "type": "git",
