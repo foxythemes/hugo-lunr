@@ -1,5 +1,5 @@
 {
-  "name": "hugo-lunr",
+  "name": "@foxythemes/hugo-lunr",
   "version": "0.0.3",
   "description": "create lunr index file for hugo static site search",
   "repository": {
@@ -20,11 +20,9 @@
   "license": "ISC",
   "dependencies": {
     "glob": "^7.0.0",
-    "gray-matter": "^2.0.2",
+    "gray-matter": "^4.0.2",
     "remove-markdown": "^0.1.0",
     "striptags": "^2.1.1",
     "toml": "^2.3.0"
   }
 }
-
-
